@@ -1,0 +1,63 @@
+@font-face {
+  font-family: KyivTypeSans;
+  font-weight: 700;
+  font-style: normal;
+  src: local("KyivTypeSans"),
+       url("../fonts/kyivbold.woff2") format('woff2'),
+       url("../fonts/kyivbold.woff") format('woff'),
+       url("../fonts/kyivbold.eot") format('eot');
+  font-display: swap;
+}
+@font-face {
+  font-family: KyivTypeSans;
+  font-weight: 500;
+  font-style: normal;
+  src: local("KyivTypeSans"),
+       url("../fonts/kyivmedium.woff2") format('woff2'),
+       url("../fonts/kyivmedium.woff") format('woff'),
+       url("../fonts/kyivmedium.eot") format('eot');
+  font-display: swap;
+}
+@font-face {
+  font-family: KyivTypeSans;
+  font-weight: 200;
+  font-style: normal;
+  src: local("KyivTypeSans"),
+       url("../fonts/kyivlight.woff2") format('woff2'),
+       url("../fonts/kyivlight.woff") format('woff'),
+       url("../fonts/kyivlight.eot") format('eot');
+  font-display: swap;
+}
+/* ------------------------------------------------------------------- */
+
+
+@font-face {
+  font-family: Jost;
+  font-weight: 600;
+  font-style: normal;
+  src: local("Jost"),
+       url("../fonts/jostsemibold.woff2") format('woff2'),
+       url("../fonts/jostsemibold.woff") format('woff'),
+       url("../fonts/jostsemibold.eot") format('eot');
+  font-display: swap;
+}
+@font-face {
+  font-family: Jost;
+  font-weight: 500;
+  font-style: normal;
+  src: local("Jost"),
+       url("../fonts/jostmedium.woff2") format('woff2'),
+       url("../fonts/jostmedium.woff") format('woff'),
+       url("../fonts/jostmedium.eot") format('eot');
+  font-display: swap;
+}
+@font-face {
+  font-family: Jost;
+  font-weight: 400;
+  font-style: normal;
+  src: local("Jost"),
+       url("../fonts/jostregular.woff2") format('woff2'),
+       url("../fonts/jostregular.woff") format('woff'),
+       url("../fonts/jostregular.eot") format('eot');
+  font-display: swap;
+}
